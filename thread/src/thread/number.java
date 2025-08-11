@@ -5,7 +5,7 @@ class number extends Thread {
             System.out.println(i);
             if (i == 5) {
                 try {
-                    Thread.sleep(500); // 500 milliseconds delay
+                    Thread.sleep(500); 
                 } catch (InterruptedException e) {
                     System.out.println(e);
                 }
