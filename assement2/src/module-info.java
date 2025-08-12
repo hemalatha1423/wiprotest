@@ -4,5 +4,5 @@
 /**
  * 
  */
-module milestone2 {
+module assement2 {
 }
