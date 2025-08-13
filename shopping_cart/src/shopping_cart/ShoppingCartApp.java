@@ -167,8 +167,10 @@ public class ShoppingCartApp {
                     return;
                 default:
                     System.out.println("❗ Invalid choice.");
+                    sc.close();
             }
-            sc.close();
         }
+        
     }
+    
 }
